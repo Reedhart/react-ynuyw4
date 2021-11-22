@@ -1,0 +1,23 @@
+{
+  "name": "react-umnzy4",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "recompose": "0.26.0",
+    "@types/react": "16.0.38",
+    "@types/googlemaps": "3.30.7",
+    "react-google-maps": "9.4.5",
+    "@types/markerclustererplus": "2.1.33"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
